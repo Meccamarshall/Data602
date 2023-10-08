@@ -30,7 +30,6 @@ def exercise01():
     # ------ Place code below here \/ \/ \/ ------
 import pandas as pd
 df = pd.DataFrame({'0': [1,5,7], '1': [2,6,8], '2': [3,7,9], '3': [4,8,10]})   
-print(df)
 
     # ------ Place code above here /\ /\ /\ ------
 
